@@ -18,7 +18,7 @@ except:
 
 
 # By ROBOT Pace Usa ~
-# GITHUB : https://github.com/ahmadchen/ ~
+# GITHUB : https://github.com/guisecurity/ ~
 # CopyRight 2020 ~
 
 RED   = "\033[1;31m"  
@@ -102,7 +102,7 @@ def menu():
         filee = args.wordlist
     elif args.version:
         print("\n\n",CYAN,"by ROBOT Pace Usa\n")
-        print(RED, " github", BLUE," : https://github.com/ahmadchen/\n")
+        print(RED, " github", BLUE," : https://github.com/guisecurity/\n")
         print(GREEN, " CopyRight 2020\n\n")
         exit()
     else:
